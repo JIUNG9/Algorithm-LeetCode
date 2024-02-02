@@ -10,3 +10,7 @@
 
 # test Main
 /Main.java
+
+
+#local cache
+/.Ds_Store
